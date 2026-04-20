@@ -44,9 +44,3 @@ I'm Alison, a professional **self taught** front-end developer from Albania.
 [![](https://img.shields.io/badge/-Netlify-000?&logo=Netlify)](https://alisontahiri.com?ref=github)
 [![](https://img.shields.io/badge/-Vercel-000?&logo=Vercel)](https://alisontahiri.com?ref=github)
 
-<p align="center" > 
-  Visitor count<br>
-  <a href="https://alisontahiri.com?ref=github">
-    <img src="https://profile-counter.glitch.me/AlisonTahiri/count.svg" />
-  </a>
-</p>
